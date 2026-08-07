@@ -1,0 +1,16 @@
+AL FALAH WEBSITE V2 FINAL
+
+1. Extract the ZIP file.
+2. Open GitHub repository: Faizan7700/alfalahgeneraltrading
+3. Click Add file > Upload files.
+4. Upload ALL extracted files.
+5. Click Commit changes.
+6. Wait 1–3 minutes for GitHub Pages.
+7. Open https://www.alfalahgeneraltrading.com
+8. Press Ctrl + Shift + R to hard-refresh.
+
+Important:
+- Keep CNAME exactly as it is.
+- Do not upload the ZIP itself.
+- Exact official logo is included.
+- Correct company profile PDF is included.
